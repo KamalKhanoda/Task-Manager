@@ -87,6 +87,3 @@ A full-stack Task Manager application built with React (frontend) and Node.js/Ex
 - `PUT /tasks/:id` - Update a task
 - `DELETE /tasks/:id` - Delete a task
 
-## License
-
-This project is licensed under the
